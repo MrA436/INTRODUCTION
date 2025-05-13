@@ -1,5 +1,5 @@
 # INTRODUCTION
-about me who i am and what my goals are.
+About Me Who I Am What am I currently Doing and What My Goals Are.
 
 
 
