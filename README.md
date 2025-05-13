@@ -5,7 +5,8 @@ about me who i am and what my goals are.
 
 # Hey, I'm Akshat 👋
 
-I'm an 18 y/o self-taught developer, currently grinding Python, LeetCode, and real-world projects to become **so good they can't ignore me**.
+I'm an 18 y/o self-taught developer, currently grinding Python, LeetCode, and real-world projects to become 
+**so good they can't ignore me**.
 
 ### Current Focus:
 - Learning Python & DSA
