@@ -9,7 +9,7 @@ I'm an 18 y/o self-taught developer, currently grinding Python, LeetCode, and re
 **so good they can't ignore me**.
 
 ### Current Focus:
-- Learning Python & DSA
+- Learning Python
 - Solving 100+ LeetCode problems
 - Building real projects & pushing to GitHub
 - Becoming financially free with code
@@ -19,4 +19,4 @@ I'm an 18 y/o self-taught developer, currently grinding Python, LeetCode, and re
 - LinkedIn: www.linkedin.com/in/akshat-deoli-0b57a0344
 - GitHub: https://github.com/MrA436
 
-> “I’m not the grades. I’m the work. And the work starts now.”
+> “I’m not about the grades. I’m about the work. And the work starts now.”
